@@ -1,0 +1,253 @@
+carousel.........
+
+<!-- carousel start-->
+    <div id="photoCarousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-md-6">
+                            <img src="img\nielit-patna.png" class="d-block w-100" alt="Photo 1" style="height: 400px;">
+                        </div>
+                        <div class="col-md-6">
+                            <div class="carousel-content">
+                                <h2>NIELIT PATNA</h2>
+                                <p>NIELIT Patna, an Autonomous and Scientific Society under the administrative control
+                                    Ministry of Electronics and Information Technology, Government of India, is a beacon
+                                    of excellence in IT education and skill development with state of the art
+                                    facilities, experienced faculties and industry- relevant curriculum. NIELIT Patna
+                                    equips students with the knowledge and skills needed to thrive in the dynamic IT
+                                    industry. Join NIELIT Patna to embark on a journey of learning, innovations and
+                                    professional growth, where we transform dreams into successful careers in the world
+                                    of Technology.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-md-6">
+                            <img src="img\nielit-srinagar.png" class="d-block w-100" style="height: 400px;" alt="Photo 2">
+                        </div>
+                        <div class="col-md-6">
+                            <div class="carousel-content">
+                                <h2>NIELIT SRINAGAR</h2>
+                                <p>National Institute of Electronics and Information Technology(NIELIT) Srinagar/ is a
+                                    premier training IT-HRD organization which was established in 1982, jointly by
+                                    Department of Information technology, MCIT,(erstwhile Department of Electronics),
+                                    Govt. of India, J&K State Industrial Development Corporation and University of
+                                    Kashmir. The Srinagar Centre is located in the Industrial Electronics Complex,
+                                    Rangreth on a 7.5 acre picturesque campus with a built-up area of over 33,000 sft,
+                                    NIELIT, Srinagar commenced its training, consultancy, design & product development
+                                    activities in the year 1987 from the industrial Electronics Complex Rangreth
+                                    Srinagar.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-md-6">
+                            <img src="img\nielit-itanagar.png" class="d-block w-100" style="height: 400px;" alt="Photo 2">
+                        </div>
+                        <div class="col-md-6">
+                            <div class="carousel-content">
+                                <h2>NIELIT ITANAGAR</h2>
+                                <p>NIELIT, Itanagar Centre is a unit of NIELIT, New Delhi, is an autonomous Scientific
+                                    Society under the administrative control of Ministry of Electronics and Information
+                                    Technology (MeitY), Government of India. The Centre is located at E-Sector, Near
+                                    Shiv Mandir, Naharlagun, Arunachal Pradesh - 791110.</p>
+                                <p>The Institute at Naharlagun has the prime objective of creating skilled manpower in
+                                    the area of Computer Science and Information Technology and related disciplines. The
+                                    Institute will offer training programs to improve employment opportunities and
+                                    facilitate availability of quality IT manpower, which in turn will lead to growth of
+                                    IT industry in the region.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-md-6">
+                            <img src="img\nielit-imphal.jpg" class="d-block w-100" style="height: 400px;"alt="Photo 2">
+                        </div>
+                        <div class="col-md-6">
+                            <div class="carousel-content">
+                                <h2>NIELIT IMPHAL</h2>
+                                <p>NIELIT Imphal Centre, formerly DOEACC & CEDTI, located at Akampat, Imphal East,
+                                    Manipur was setup in the year 1988 and is operational since July 1989 at a land
+                                    allotted by Govt. of Manipur on lease for 99 years. The prime objective of the
+                                    Institute is to create skilled manpower in the area of Information Technology,
+                                    Computer Science and Electronics and related disciplines for making available
+                                    industry ready professionals as also to provide infrastructure to promote
+                                    e-learning. The Institute is offering training programmes to improve employment
+                                    opportunities and facilitate availability of quality IT manpower, which will lead to
+                                    growth of IT industry in the region. </p>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-md-6">
+                            <img src="img\nielit-agartala.jpg" class="d-block w-100" style="400px" alt="Photo 2">
+                        </div>
+                        <div class="col-md-6">
+                            <div class="carousel-content">
+                                <h2>NIELIT AGARTALA</h2>
+                                <p>The National Institute of Electronics & Information Technology–Agartala Centre (Formerly RIELIT-Agartala) is the 11th Centre of NIELIT (erstwhile DOEACC Society), an Autonomous Scientific Society under Ministry of Electronics and Information Technology (MeitY), Government of India and is the 5th in the North-Eastern Region.
+                                    The Initial Training Facility of the NIELIT Agartala Centre was inaugurated formally on 10th February 2009 at State DIT Campus Indranagar.
+                                    The permanent campus of NIELIT Agartala has been constructed in a Govt. of Tripura allotted 15.00 Acre land, near Industrial Growth Centre at R. K. Nagar. The facilities of the Initial Training Facility have been shifted/transferred to the permanent campus and activities at permanent campus started from 1st January 2016.
+                                     </p>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-md-6">
+                            <img src="img\nielit-aizwal.jpg" class="d-block w-100" style="height: 400px;" alt="Photo 2">
+                        </div>
+                        <div class="col-md-6">
+                            <div class="carousel-content">
+                                <h2>NIELIT AIZAWL</h2>
+                                <p>NIELIT Aizawl (Formerly DOEACC Centre, Aizawl) established in the year 2001 is located at Industrial Estate, Zuangtui in the northern direction from the heart of the capital city of Mizoram. The site spreads over an area of more than four (4) acres.
+                                    Since the Centre is situated away from the hustle and bustle of the city, the atmosphere offers a congenial environment for a fruitful academic activity. This further provides an excellent option for the IT students and ITES apprentices with quiet and undisturbed learning environment.
+                                    Extension centre at Pukpui, Lunglei was also established in the year 2013 and has trained over 3000 students.
+                                    
+                                     </p>
+                                     <p>The thrust area of NIELIT, Aizawl is Information, Electronics and Information Technology (IECT)</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-md-6">
+                            <img src="img\nielit-aurangabad.jpg" class="d-block w-100" alt="Photo 2">
+                        </div>
+                        <div class="col-md-6">
+                            <div class="carousel-content">
+                                <h2>NIELIT Aurangabad</h2>
+                                <p>The history of NIELIT dates back to 1974 when the Department of Electronics (DoE) now Ministry of  Electronics and Information Technology (MeitY), Govt. of India and the University Grants Commission (UGC) set up the first CEDT within the premises of Indian Institute of Science (IISc.), Bangalore with assistance from Swiss Development Corporation.
+                                     </p>
+                                <p>The NIELIT Aurangabad is co-located inside the lush green campus of Dr. B.A.M. University and its campus is spreads over more than 18 acres. It has about 14 well equipped laboratories and Mechanical workshop besides a rich Library, Gymnasium for students, Auditorium, Canteen, Basket-ball ground, Volley ball ground, Kho Kho ground etc.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-md-6">
+                            <img src="img\nielit-ajmer.png" class="d-block w-100" alt="Photo 2">
+                        </div>
+                        <div class="col-md-6">
+                            <div class="carousel-content">
+                                <h2>NIELIT Ajmer</h2>
+                                <p>The institute was setup under the project “Setting of Regional Institute of E-Learning & information Technology (RIELIT), Ajmer”, approved by MeitY in Nov, 2010 and was renamed as National Institute of Electronics and information Technology (NIELIT), Ajmer in 2012.
+                                    It has been a constant endeavour of this Centre to develop excellence in various area of Information, Electronics & Communication Technology (IECT). The Centre aims to disseminate knowledge on all aspects of Information, Electronics & Communication Technology (IECT) to the utmost user satisfaction. 
+                                    
+                                     </p>
+                                <p>The NIELIT Aurangabad is co-located inside the lush green campus of Dr. B.A.M. University and its campus is spreads over more than 18 acres. It has about 14 well equipped laboratories and Mechanical workshop besides a rich Library, Gymnasium for students, Auditorium, Canteen, Basket-ball ground, Volley ball ground, Kho Kho ground etc.</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-md-6">
+                            <img src="img\nielit-calicut.png" class="d-block w-100" alt="Photo 2">
+                        </div>
+                        <div class="col-md-6">
+                            <div class="carousel-content">
+                                <h2>NIELIT Calicut</h2>
+                                <p>The present infrastructure is developed in 25 Acre campus and houses state of the art laboratory facilities as well as hostels, guest house, Canteen, 24x7 Wi-Fi, ATM etc in lush green scenic ambience. The unique Kerala style architecture of the buildings and its proximity to world class institutions like NIT & IIM, makes it one of the best NIELIT Centres in the country.</p>
+
+                                <p>The institute is engaged in the conduct of industry oriented quality education and training in the state-of-the-art areas through various formal and non-formal programs.  The Centre is an implementing agency for various Government Schemes related to human resource development in the field of Information, Electronics & Communications Technology (IECT).  The center is also engaged in R & D activities and provides product development and industrial consultancy services. NIELIT Calicut is also a  Participating Institute under ISEA-II Chip to Start Up (C2S) and Drone/UAS Technology (SwaYaan) Projects of MeitY, Government of India
+                                     </p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Add more carousel items as needed -->
+        </div>
+        <!-- Square Navigation Buttons -->
+        <button class="carousel-control-prev" type="button" data-bs-target="#photoCarousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#photoCarousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+
+    </div>
+
+style.css
+
+/* caraousal */
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 50px;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+    border: none;
+    top: calc(50% - 25px);
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
+}
+
+.carousel-control-prev:hover,
+.carousel-control-next:hover {
+    opacity: 1;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    width: 30px;
+    height: 30px;
+    background-size: 100%, 100%;
+    background-image: none;
+    display: inline-block;
+}
+
+.carousel-control-prev {
+    left: 10px;
+}
+
+.carousel-control-next {
+    right: 10px;
+}
+
+.carousel-control-prev-icon {
+    background-image: url('data:image/svg+xml;charset=UTF-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="currentColor" d="M11.354 1.646a.5.5 0 0 0-.707 0L4.146 7.146a.5.5 0 0 0 0 .708l6.5 6.5a.5.5 0 0 0 .708-.708L5.707 8l5.647-5.646a.5.5 0 0 0 0-.708z"/></svg>');
+}
+
+.carousel-control-next-icon {
+    background-image: url('data:image/svg+xml;charset=UTF-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="currentColor" d="M4.646 1.646a.5.5 0 0 1 .708 0L11.854 7.146a.5.5 0 0 1 0 .708l-6.5 6.5a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"/></svg>');
+}
